@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "firstName": "shivani",
+      "lastName": "jangid",
+      "emailAddress": "shivnaijagid136@gmail.com",
+      "phoneNumber": "7827531446",
+      "id": 1
+    },
+    {
+      "firstName": "shivani",
+      "lastName": "jangid",
+      "emailAddress": "shivnaijagid136@gmail.com",
+      "phoneNumber": "7827531446",
+      "id": 2
+    },
+    {
+      "firstName": "kajal",
+      "lastName": "jangid",
+      "emailAddress": "shivnaijagid136@gmail.com",
+      "phoneNumber": "7827531446",
+      "id": 3
+    },
+    {
+      "firstName": "shivani",
+      "lastName": "jangid",
+      "emailAddress": "shivnaijagid136@gmail.com",
+      "phoneNumber": "7827531446",
+      "id": 4
+    }
+  ]
+}
